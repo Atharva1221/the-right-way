@@ -38,3 +38,6 @@ Backend/classpath.txt
 
 # Generated validation artifacts
 Frontend/.tsupgrader/runtime-validation/
+
+# Local database backups
+*.sql
